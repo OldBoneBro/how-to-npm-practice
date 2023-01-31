@@ -1,0 +1,1 @@
+for one of the how-to-npm's exercise
